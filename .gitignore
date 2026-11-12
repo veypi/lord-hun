@@ -1,0 +1,21 @@
+# build artifacts
+*.dll
+*.exe
+*.obj
+*.png
+*.jpg
+
+# runtime IPC / logs
+ipc/
+*.log
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# editor / os
+.DS_Store
+.idea/
+.vscode/

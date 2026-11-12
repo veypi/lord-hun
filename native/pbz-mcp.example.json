@@ -1,0 +1,6 @@
+{
+  "ipc_dir": "C:/Users/v/pbz-mod/ipc",
+  "port": 8765,
+  "window_title": "Phantom Blade Zero",
+  "max_stale_ms": 1500
+}
