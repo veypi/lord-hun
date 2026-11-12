@@ -65,3 +65,5 @@ DESIGN.md 设计文档与实测 API 笔记
 ## 声明
 
 单机游戏本地自用 mod，仅供学习交流；请支持正版游戏。游戏更新可能破坏 mod，建议关闭自动更新。
+
+许可证：MIT，见 [LICENSE](LICENSE)。路线图见 [TODO.md](TODO.md)。
